@@ -62,13 +62,6 @@ retail-sql-analysis/
 ├── README.md
 ├── sql/
 │   └── retail_analysis.sql          # all 16 queries, commented by problem
-├── data/
-│   ├── sales_transaction.csv
-│   ├── product_inventory.csv
-│   └── customer_profiles.csv
-├── docs/
-│   ├── case_study.docx              # business problem statements
-│   └── solution.docx                # written solutions & explanations
 └── presentation/
     └── retail_analytics_presentation.pptx   # findings & recommendations deck
 ```
